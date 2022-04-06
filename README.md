@@ -46,7 +46,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
       Why?-->Why?;
       Why?-->Why?;
       Why?-->Solution;
-      Solution?-->Problem;
+      Solution-->Problem;
 ```
 
 
