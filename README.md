@@ -30,7 +30,6 @@ Actually:
 
 <details>
   <summary> Latest achievements</summary>
-
 <!-- BLOG-POST-LIST:START -->
 - [I have obtained the Tosa CyberCitizen certification](https://www.tosa.org/EN/cybers%C3%A9curit%C3%A9-certification?sbj_id=298)
 - [I took free web developer courses on openclassroom](https://openclassrooms.com/fr/search?page=1&categories=D%C3%A9veloppement)
