@@ -36,6 +36,19 @@ Actually:
 </details>
 
 
+### My daily routine :
+
+```mermaid
+  graph TD;
+      Problem-->Why?;
+      Why?-->Why?;
+      Why?-->Why?;
+      Why?-->Why?;
+      Why?-->Solution;
+      Solution?-->Problem;
+```
+
+
 ### Connect with me:
 
 [![img_contact](./img/brave.svg)](https://brave.com#gh-light-mode-only)
@@ -51,20 +64,6 @@ Actually:
 [![img_contact](./img/telegram.svg)](https://t.me/wajihusya#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-<br />
-<br />
-
-### My daily routine :
-
-```mermaid
-  graph TD;
-      Problem-->Why?;
-      Why?-->Why?;
-      Why?-->Why?;
-      Why?-->Why?;
-      Why?-->Solution;
-      Solution?-->Problem;
-```
 
 ### 🔥 GitHub Stats
 
