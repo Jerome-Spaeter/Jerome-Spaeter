@@ -1,5 +1,5 @@
 # Jerome-Spaeter
-I'm Jérôme from France, living in Strasbourg, beginner full stack developer, I love to learn languages and frameworks.
+I'm Jérôme from France, living in Strasbourg, junior full stack developer student, I like to learn languages, frameworks and cybersecurity in general.
 
 
 <!--
