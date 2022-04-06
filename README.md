@@ -17,6 +17,26 @@ Actually:
 - 📧 How to reach me : [email][mail] ...
 
 
+### Languages and Tools:
+
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][HTML]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][CSS]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][JS]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />][Vue.js]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" style="padding-right:10px;" />][symfony]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][php]
+
+
+<details>
+  <summary> Latest achievements</summary>
+
+<!-- BLOG-POST-LIST:START -->
+- [I have obtained the Tosa CyberCitizen certification](https://www.tosa.org/EN/cybers%C3%A9curit%C3%A9-certification?sbj_id=298)
+- [I took free web developer courses on openclassroom](https://openclassrooms.com/fr/search?page=1&categories=D%C3%A9veloppement)
+</details>
+
+
 ### Connect with me:
 
 [![img_contact](./img/brave.svg)](https://brave.com#gh-light-mode-only)
@@ -32,17 +52,6 @@ Actually:
 [![img_contact](./img/telegram.svg)](https://t.me/wajihusya#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][HTML]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][CSS]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][JS]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />][Vue.js]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" style="padding-right:10px;" />][symfony]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][php]
-
-
 <br />
 <br />
 
@@ -54,22 +63,13 @@ Actually:
       Why?-->Why?;
       Why?-->Why?;
       Why?-->Why?;
-      Why?-->Solution?;
+      Why?-->Solution;
       Solution?-->Problem;
 ```
 
 ### 🔥 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerome-Spaeter&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
-<details>
-  <summary> Latest achievements</summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [I have obtained the Tosa CyberCitizen certification](https://www.tosa.org/EN/cybers%C3%A9curit%C3%A9-certification?sbj_id=298)
-- [I took free web developer courses on openclassroom](https://openclassrooms.com/fr/search?page=1&categories=D%C3%A9veloppement)
-</details>
-
 
 
 
