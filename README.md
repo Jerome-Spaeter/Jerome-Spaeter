@@ -25,9 +25,6 @@ Actually:
 [![img_contact](./img/youtube.svg)](https://www.youtube.com/user/wajihusya/featured#gh-light-mode-only)
 [![img_contact](./img/youtube.svg)](https://www.youtube.com/user/wajihusya/featured#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/twitter.svg)](https://twitter.com/wajihusya#gh-light-mode-only)
-[![img_contact](./img/twitter.svg)](https://twitter.com/wajihusya#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![img_contact](./img/linkedin.svg)](https://www.linkedin.com#gh-light-mode-only)
 [![img_contact](./img/linkedin.svg)](https://www.linkedin.com#gh-dark-mode-only)
 &nbsp;&nbsp;
