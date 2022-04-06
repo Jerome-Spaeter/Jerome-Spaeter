@@ -9,12 +9,12 @@ I'm Jérôme from France, living in Strasbourg, beginner full stack developer, I
 
 Actually:
 
-- 🔭 I’m currently working in formation [id-formation][ID] ...
+- 💻 I’m currently working in formation [id-formation][ID] ...
 - 🌱 I’m currently learning bases FullStack developper ...
-- 🚨 I'm also taking cybersecurity courses [cyberini][cyberini] ...
+- 🐱‍💻 I'm also taking cybersecurity courses [cyberini][cyberini] ...
 - 💎 I help people at my level to discover WEB 3.0 and blockchain ...
 - ⚡ Fun fact : I have a manual background, especially in metalwork and construction ...
-- 📫 How to reach me : [email][mail] ...
+- 📧 How to reach me : [email][mail] ...
 
 
 ### Connect with me:
@@ -69,12 +69,11 @@ Actually:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerome-Spaeter&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary>📺 Latest numeric content</summary>
+  <summary> Latest achievements</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Le Fil d'Actu](https://www.youtube.com/c/LeFildActuOfficiel)
-- [01TV ](https://www.youtube.com/c/01netTV/featured)
-- [Grafikart](https://www.youtube.com/c/grafikart)
+- [I have obtained the Tosa CyberCitizen certification](https://www.tosa.org/EN/cybers%C3%A9curit%C3%A9-certification?sbj_id=298)
+- [I took free web developer courses on openclassroom](https://openclassrooms.com/fr/search?page=1&categories=D%C3%A9veloppement)
 </details>
 
 
