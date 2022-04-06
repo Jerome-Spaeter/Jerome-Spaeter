@@ -39,7 +39,6 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 
 
 ### My daily routine :
-
 ```mermaid
   graph TD;
       Problem-->Why?;
