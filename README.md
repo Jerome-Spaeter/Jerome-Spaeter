@@ -27,6 +27,7 @@ Actually:
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" style="padding-right:10px;" />][symfony]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][php]
 
+</br>
 
 <details>
   <summary> Latest achievements</summary>
@@ -35,6 +36,7 @@ Actually:
 - [I took free web developer courses on openclassroom](https://openclassrooms.com/fr/search?page=1&categories=D%C3%A9veloppement)
 </details>
 
+</br>
 
 ### My daily routine :
 
@@ -64,6 +66,7 @@ Actually:
 [![img_contact](./img/telegram.svg)](https://t.me/wajihusya#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+</br>
 
 ### 🔥 GitHub Stats
 
