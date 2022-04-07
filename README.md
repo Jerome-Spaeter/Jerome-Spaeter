@@ -53,17 +53,13 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 
 ### Connect with me:
 
-[![img_contact](./img/brave.svg)](https://brave.com#gh-light-mode-only)
-[![img_contact](./img/brave.svg)](https://brave.com#gh-dark-mode-only)
+[![img_contact](./img/brave.svg)](https://brave.com)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin.svg)](https://www.linkedin.com#gh-light-mode-only)
-[![img_contact](./img/linkedin.svg)](https://www.linkedin.com#gh-dark-mode-only)
+[![img_contact](./img/linkedin.svg)](https://www.linkedin.com)
 &nbsp;&nbsp;
-[![img_contact](./img/github.svg)](https://github.com/Jerome-Spaeter#gh-light-mode-only)
-[![img_contact](./img/github.svg)](https://github.com/Jerome-Spaeter#gh-dark-mode-only)
+[![img_contact](./img/github.svg)](https://github.com/Jerome-Spaeter)
 &nbsp;&nbsp;
-[![img_contact](./img/telegram.svg)](https://t.me/wajihusya#gh-light-mode-only)
-[![img_contact](./img/telegram.svg)](https://t.me/wajihusya#gh-dark-mode-only)
+[![img_contact](./img/telegram.svg)](https://t.me/wajihusya)
 &nbsp;&nbsp;
 
 </br>
