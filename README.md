@@ -55,7 +55,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 
 [![img_contact](./img/brave.svg)](https://brave.com)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin.svg)](https://www.linkedin.com)
+[![img_contact](./img/linkedin.svg)](https://www.linkedin.com/in/Jérôme-spaeter/)
 &nbsp;&nbsp;
 [![img_contact](./img/github.svg)](https://github.com/Jerome-Spaeter)
 &nbsp;&nbsp;
