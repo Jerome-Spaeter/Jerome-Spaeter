@@ -59,7 +59,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 &nbsp;&nbsp;
 [![img_contact](./img/github.svg)](https://github.com/Jerome-Spaeter)
 &nbsp;&nbsp;
-[![img_contact](./img/telegram.svg)](https://t.me/wajihusya)
+[![img_contact](./img/telegram.svg)](https://t.me/Jerome_Sp)
 &nbsp;&nbsp;
 
 </br>
