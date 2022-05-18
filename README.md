@@ -37,6 +37,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 - [I took free web developer courses on openclassroom](https://openclassrooms.com/fr/search?page=1&categories=D%C3%A9veloppement)
 </details>
 
+</br>
 
 ### My daily routine :
 ```mermaid
@@ -49,7 +50,6 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
       Solution-->Problem;
 ```
 
-</br>
 
 ### Connect with me:
 
