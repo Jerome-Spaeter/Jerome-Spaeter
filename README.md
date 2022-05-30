@@ -34,7 +34,6 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
   
 <!-- BLOG-POST-LIST:START -->
 - [I have obtained the Tosa CyberCitizen certification](https://www.tosa.org/EN/Index?param=cGdOc2MydUltNjYycVE0cEVsd1QwVWhoZFdKN3Q0ekpEbzR4VnRLeTZZbk5Ob0cySU1KTHdhTDNwUngrbFovRVhkSXQ1ZEVobWlPMnBLY0V6TFNwSEE9PTo6Ia7-rjUcUMnsFtxxUkni5Q)
-- [I took free web developer courses on openclassroom](https://openclassrooms.com/fr/search?page=1&categories=D%C3%A9veloppement)
 </details>
 
 
