@@ -12,23 +12,20 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 - 💻 I’m currently working in formation [id-formation][ID] ...
 - 🌱 I’m currently learning bases FullStack developper ...
 - 🐱‍💻 I'm also taking cybersecurity courses [cyberini][cyberini] ...
-- 💎 I help people at my level to discover WEB 3.0 and blockchain ...
-- ⚡ Fun fact : I have a manual background, especially in metalwork and construction ...
-- 📧 How to reach me : m.spaeter@gmail.com ...
+- 📧 How to reach me : [m.spaeter@gmail.com][mail] ...
 
 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][VisualStudio]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][HTML]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][CSS]
+[<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][HTML]
+[<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][CSS]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][JS]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />][Vue.js]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" style="padding-right:10px;" />][symfony]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][php]
+[<img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />][Vue.js]
+[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][php]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][SQL]
 
-</br></br>
+</br>
 
 <details>
   <summary>Latest achievements</summary>
@@ -43,7 +40,6 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 ```mermaid
   graph TD;
       Problem-->Why?;
-      Why?-->Why?;
       Why?-->Why?;
       Why?-->Why?;
       Why?-->Solution;
@@ -75,4 +71,5 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 [python]: https://www.python.org/
 [Vue.js]: https://vuejs.org/
 [php]: https://www.php.net/
+[SQL]: https://developer.mozilla.org/en-US/docs/Glossary/SQL
 [mail]: m.spaeter@gmail.com
