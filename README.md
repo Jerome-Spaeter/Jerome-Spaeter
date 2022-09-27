@@ -41,6 +41,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
   graph TD;
       Problem-->Why?;
       Why?-->Why?;
+      Why?-->Why?;
       Why?-->Solution;
       Solution-->Problem;
 ```
