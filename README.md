@@ -19,6 +19,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 
 ### Languages and Tools:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][VisualStudio]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][HTML]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][CSS]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][JS]
@@ -38,6 +39,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 
 
 ### My daily routine :
+
 ```mermaid
   graph TD;
       Problem-->Why?;
@@ -47,7 +49,6 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
       Why?-->Solution;
       Solution-->Problem;
 ```
-
 
 ### Connect with me:
 
@@ -67,11 +68,11 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 
 [ID]: https://id-formation.com/
 [cyberini]: https://cyberini.com/
-[HTML]: https://developer.mozilla.org/fr/docs/Web/HTML
-[CSS]: https://developer.mozilla.org/fr/docs/Web/CSS
-[JS]: https://developer.mozilla.org/fr/docs/Web/JavaScript
+[VisualStudio]: https://code.visualstudio.com/
+[HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JS]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [python]: https://www.python.org/
 [Vue.js]: https://vuejs.org/
-[symfony]: https://symfony.com/
 [php]: https://www.php.net/
 [mail]: m.spaeter@gmail.com
