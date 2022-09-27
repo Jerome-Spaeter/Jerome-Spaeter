@@ -25,7 +25,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][php]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][SQL]
 
-</br>
+</br></br>
 
 <details>
   <summary>Latest achievements</summary>
@@ -40,8 +40,6 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 ```mermaid
   graph TD;
       Problem-->Why?;
-      Why?-->Why?;
-      Why?-->Why?;
       Why?-->Solution;
       Solution-->Problem;
 ```
