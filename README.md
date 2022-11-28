@@ -54,7 +54,7 @@ I'm Jérôme from France, living in Strasbourg, full stack developer, I like to 
 &nbsp;&nbsp;
 [![img_contact](./img/github.svg)](https://github.com/Jerome-Spaeter)
 &nbsp;&nbsp;
-[![img_contact](./img/discord.svg)](https://Jerome-Spaeter)
+[![img_contact](./img/discord.svg)](https://OoutLaaaw#3182)
 &nbsp;&nbsp;
 
 </br>
