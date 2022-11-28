@@ -43,6 +43,7 @@ I'm Jérôme from France, living in Strasbourg, full stack developer, I like to 
   graph TD;
       Problem-->Why?;
       Why?-->Why?;
+      Why?-->Why?;
       Why?-->Solution;
       Solution-->Problem;
 ```
