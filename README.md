@@ -9,7 +9,7 @@ I'm Jérôme from France, living in Strasbourg, full stack developer, I like to 
 
 ### Actually:
 
-- 💻 I’m currently working in my personals [projects][repositories] ...
+- 💻 I’m currently working in my [projects][repositories] ...
 - 🌱 I’m currently learning amazing things ...
 - 🐱‍💻 I'm also taking cybersecurity courses [cyberini][cyberini] ...
 - 📧 How to reach me : [m.spaeter@gmail.com][mail] ...
@@ -54,7 +54,7 @@ I'm Jérôme from France, living in Strasbourg, full stack developer, I like to 
 &nbsp;&nbsp;
 [![img_contact](./img/github.svg)](https://github.com/Jerome-Spaeter)
 &nbsp;&nbsp;
-[![img_contact](./img/discord.svg)](https://OoutLaaaw#3182)
+[![img_contact](./img/discord.svg)](https://discord.com/OoutLaaaw#3182)
 &nbsp;&nbsp;
 
 </br>
