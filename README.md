@@ -1,5 +1,5 @@
 # Jerome-Spaeter
-I'm Jérôme from France, living in Strasbourg, junior full stack developer student, I like to learn languages, frameworks and cybersecurity in general.
+I'm Jérôme from France, living in Strasbourg, full stack developer, I like to learn languages, frameworks and cybersecurity in general.
 
 
 <!--
@@ -9,8 +9,8 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 
 ### Actually:
 
-- 💻 I’m currently working in formation [id-formation][ID] ...
-- 🌱 I’m currently learning bases FullStack developper ...
+- 💻 I’m currently working in my personals [projects][repositories] ...
+- 🌱 I’m currently learning amazing things ...
 - 🐱‍💻 I'm also taking cybersecurity courses [cyberini][cyberini] ...
 - 📧 How to reach me : [m.spaeter@gmail.com][mail] ...
 
@@ -24,6 +24,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 [<img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />][Vue.js]
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][php]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][SQL]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />][Node.js]
 
 </br></br>
 
@@ -31,6 +32,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
   <summary>Latest achievements</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [I have obtained the title professional developer](https://www.linkedin.com/in/Jérôme-spaeter/)
 - [I have obtained the Tosa CyberCitizen certification](https://www.tosa.org/EN/Index?param=cGdOc2MydUltNjYycVE0cEVsd1QwVWhoZFdKN3Q0ekpEbzR4VnRLeTZZbk5Ob0cySU1KTHdhTDNwUngrbFovRVhkSXQ1ZEVobWlPMnBLY0V6TFNwSEE9PTo6Ia7-rjUcUMnsFtxxUkni5Q)
 </details>
 
@@ -47,13 +49,12 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 
 ### Connect with me:
 
-[![img_contact](./img/brave.svg)](https://brave.com)
-&nbsp;&nbsp;
+
 [![img_contact](./img/linkedin.svg)](https://www.linkedin.com/in/Jérôme-spaeter/)
 &nbsp;&nbsp;
 [![img_contact](./img/github.svg)](https://github.com/Jerome-Spaeter)
 &nbsp;&nbsp;
-[![img_contact](./img/telegram.svg)](https://t.me/Jerome_Sp)
+[![img_contact](./img/discord.svg)](OoutLaaaw#3182)
 &nbsp;&nbsp;
 
 </br>
@@ -61,7 +62,7 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 
 
 
-[ID]: https://id-formation.com/
+[repositories]: https://github.com/Jerome-Spaeter?tab=repositories
 [cyberini]: https://cyberini.com/
 [VisualStudio]: https://code.visualstudio.com/
 [HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
@@ -71,4 +72,5 @@ I'm Jérôme from France, living in Strasbourg, junior full stack developer stud
 [Vue.js]: https://vuejs.org/
 [php]: https://www.php.net/
 [SQL]: https://developer.mozilla.org/en-US/docs/Glossary/SQL
+[Node.js]: https://nodejs.org/en/
 [mail]: m.spaeter@gmail.com
