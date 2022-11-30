@@ -73,4 +73,4 @@ I'm Jérôme from France, living in Strasbourg, full stack developer, I like to 
 [php]: https://www.php.net/
 [SQL]: https://developer.mozilla.org/en-US/docs/Glossary/SQL
 [Node.js]: https://nodejs.org/en/
-[mail]: m.spaeter@gmail.com
+[mail]: mailto:m.spaeter@gmail.com?subject=Hello
