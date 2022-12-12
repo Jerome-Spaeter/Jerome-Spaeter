@@ -32,7 +32,7 @@ I'm Jérôme from France, living in Strasbourg, full stack developer, I like to 
   <summary>Latest achievements</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [I have obtained the title professional developer](https://www.linkedin.com/in/Jérôme-spaeter/)
+- [I have obtained the title professional developer](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-spaeter/details/education/1635510643986/single-media-viewer/)
 - [I have obtained the Tosa CyberCitizen certification](https://www.tosa.org/EN/Index?param=cGdOc2MydUltNjYycVE0cEVsd1QwVWhoZFdKN3Q0ekpEbzR4VnRLeTZZbk5Ob0cySU1KTHdhTDNwUngrbFovRVhkSXQ1ZEVobWlPMnBLY0V6TFNwSEE9PTo6Ia7-rjUcUMnsFtxxUkni5Q)
 </details>
 
