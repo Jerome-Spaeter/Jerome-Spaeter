@@ -24,6 +24,7 @@ I'm Jérôme from France, living in Strasbourg, full stack developer, I like to 
 [<img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />][Vue.js]
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][php]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][SQL]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][Java]
 
 </br></br>
 
@@ -71,4 +72,5 @@ I'm Jérôme from France, living in Strasbourg, full stack developer, I like to 
 [Vue.js]: https://vuejs.org/
 [php]: https://www.php.net/
 [SQL]: https://developer.mozilla.org/en-US/docs/Glossary/SQL
+[Java]: https://www.java.com/en/
 [mail]: mailto:m.spaeter@gmail.com?subject=Hello&body=Message
