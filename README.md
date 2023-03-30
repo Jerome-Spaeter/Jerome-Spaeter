@@ -72,5 +72,5 @@ I'm Jérôme from France, living in Strasbourg, full stack developer, I like to 
 [Vue.js]: https://vuejs.org/
 [php]: https://www.php.net/
 [SQL]: https://developer.mozilla.org/en-US/docs/Glossary/SQL
-[Java]: https://www.java.com/en/
+[Java]: https://www.java.com
 [mail]: mailto:m.spaeter@gmail.com?subject=Hello&body=Message
